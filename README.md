@@ -28,6 +28,19 @@ Explaining the basics of **Pandas DataFrames in Python** for data analysis.
 - Handling **missing values and duplicates**
 - Data type conversion using `astype()`
 
+# Pandas GroupBy 
+
+**GroupBy operations in Pandas** for data analysis.
+
+## Topics Covered
+- Creating **GroupBy objects**
+- Applying **aggregation functions** (`sum`, `mean`, `max`, `min`, `count`)
+- Using **agg() with multiple functions**
+- **Filtering and analyzing groups**
+- Using **apply() with custom functions**
+- **Grouping by multiple columns**
+- Real-world analysis using **movie and IPL datasets**
+
 ## Libraries Used
 - Pandas
 - NumPy
